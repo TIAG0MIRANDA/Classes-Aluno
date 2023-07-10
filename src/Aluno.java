@@ -90,9 +90,9 @@ public class Aluno{ // classe
                                         this.Media + "\n Disciplina: " + this.Disciplina);
 
         if(this.Media < 6) {
-            System.out.println("Você reprovou de ano!");
+            System.out.println("VReprovou de ano!");
         }else{
-            System.out.println("Você passou de ano!");
+            System.out.println("Passou de ano!");
         }
 
     }
